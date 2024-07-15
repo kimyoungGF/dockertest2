@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+boto3
+pymongo
+python-dotenv
+requests
+ultralytics
+opencv-python-headless
